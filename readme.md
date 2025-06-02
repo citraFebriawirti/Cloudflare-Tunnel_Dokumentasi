@@ -11,7 +11,9 @@
 
 ### Untuk Windows:
 Unduh dari tautan resmi Cloudflare:  
-🔗 [Install cloudflared - Cloudflare Docs](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation)
+🔗 [Install cloudflared - Cloudflare Docs](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/)
+![image](https://github.com/user-attachments/assets/69d5e046-49c9-44ab-a359-12f41c1d4e36)
+
 
 ## 2. Letakkan di Folder Proyek Laravel atau Tambahkan ke PATH
 
